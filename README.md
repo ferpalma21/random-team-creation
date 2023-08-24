@@ -1,6 +1,6 @@
 No Libraries Needed: This script doesn't require any external libraries to run. You can use the built-in Node.js functionality.
 
-Running the Script: Open your terminal and navigate to the directory containing the index.js file. Then, use the command node index.js to run the script.
+Running the Script: Open your terminal and navigate to the directory containing the index.js file. Then, use the command `node index.js` to run the script.
 
 Entering Captain Names: The script will prompt you to enter the names of team captains one by one. Type in the name of a captain and press Enter. Continue entering captain names one after another. When you're done adding captains, type "done" and press Enter.
 
